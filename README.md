@@ -213,10 +213,16 @@ No manual database setup is required.
 
 The app uses SQLite, and the database is created automatically when the app runs.
 
-The database stores:
+- The database file is created automatically when the app runs for the first time.
+- The database file is stored at: `data/study_planner.db`
+- No separate database server or manual database installation is required.
+- The app initializes the required tables automatically through the database setup code.
 
-- subjects
-- tasks
-- deadlines
-- task status
-- progress information
+### Tables
+
+**subjects**
+- stores subject information such as name, exam date, target study hours, and difficulty
+
+**tasks**
+- stores task information such as title, topic, description, status, priority, deadline, and estimated hours
+- each task is linked to a subject using `subject_id`
