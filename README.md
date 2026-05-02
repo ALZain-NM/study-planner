@@ -12,7 +12,7 @@ The app was designed to solve a real problem: keeping track of study workload, u
 
 deployed Streamlit link here:
 
-`https://your-streamlit-app-url-here`
+[Study Planner Live App](https://study-planner-zna.streamlit.app/)
 
 ## GitHub Repository
 
