@@ -113,6 +113,13 @@ Lets users:
 - convert the plan into actual tasks automatically
 
 ---
+## Demo Video
+
+You can watch the project walkthrough here:
+
+[Study Planner Demo Video](https://drive.google.com/file/d/1mAnRJh7kRqRSQcvdnh6DeaiouZRsEeLN/view?usp=sharing)
+
+---
 
 ## Tech Stack
 
